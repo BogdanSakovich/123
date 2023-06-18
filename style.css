@@ -1,0 +1,49 @@
+.p{
+    Font-family: Inter;
+    Font-size: 35px;
+    line-height: 61px;
+    line-height: 100%;
+    vertical-align: top;
+text-align: center;
+color: white;
+}
+
+h1{
+    Font-family: Inter;
+    Font-size: 50px;
+    line-height: 61px;
+    line-height: 100%;
+    vertical-align: top;
+text-align: center;
+color: white;
+}
+
+
+body{
+    background-image: url("https://w-dog.ru/wallpapers/0/9/494208135217176/bmw-m4-avtomobil-sinij.jpg");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+header {
+    background-color: gray;
+    height: 120px;
+    margin-top: 0; 
+    padding-top: 0;
+    display: block;
+    }
+    
+h2{
+    color: white;
+    font-size: 50px;
+}
+
+footer{
+    background-color: gray;
+    height: 120px;
+}
+
+
+    
